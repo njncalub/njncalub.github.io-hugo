@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/njncalub
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://njncalub.github.io
+  * I am njncalub (https://keybase.io/njncalub) on keybase.
+  * I have a public key with fingerprint F8C4 ED99 60A0 66CF 0A41  1877 8B13 7D6B 7D7B 521A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fb3b91a28498a04f9358587baf08dd9b293dd8716fb1f7d920d01a0d0d2e93780a",
+      "fingerprint": "f8c4ed9960a066cf0a4118778b137d6b7d7b521a",
+      "host": "keybase.io",
+      "key_id": "8b137d6b7d7b521a",
+      "kid": "010110e21f4f31d0f4606bc5d2dbc4aec3c1602ff57f13135a0437444bcf2c80c1c90a",
+      "uid": "70c9fd2ce34acfdc445d761e94dd0b19",
+      "username": "njncalub"
+    },
+    "service": {
+      "hostname": "njncalub.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1527127740,
+  "expire_in": 157680000,
+  "prev": "f317e3eef60be7ea6047095228ab174a13b022d1456c10991b5f94a33f35e721",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJtUFRVGF7kwyAQihHBKPFqmQjMOff7rkQziB+IldJEkMh27z3nwnVh
+d9kvP4AIcRx3rJhpSNEZFIYBwxGVxA82wAjCdbYJNiZHxaRJmqEA26Fm/FFU9zL5
+p+n8OO+c9zzPc573Pe9wTKghKuRYfI25pip/ZYh/sNll2B3xQl8VIVnRAcJYRZjx
+YsDlCDucJrOKCCMBIAkUiZIEKJI8LfAioBWBYniG5yRRATxCgkQKFEI8B1lFggqH
+BBIgAEVtQyQWKI4HIpFGKKqlFNttdtXi1GQVXqYxEgQWiIBlZQWINIQ8x/ESpDjE
+ShziJIaEOrHM6tAZmjlJdOAM1arltINp0d7/4J/4BhACTEKFViiIgEKzgJVkBpFI
+kmkRy5QMWUAqCsMpkIIUoxVGcTRNS7JCyjyQoSws+nYtynFAFhREypiiRVlBMk0z
+iGMhFmiEgAQFHejAdotYgTW0Za9FFstdElGTRmhZtypjvbF6Jf9BZJSqzjItLFZl
+s1udVtlart2XOZ02h1HnOw/YdMI+LJn+lTJJqgVp3dQYbmx3qFYLYYQaUnaqujZk
+SA6SHEeDNALvt6l2bFJ1BMOxPNCW/g52639AQQ5TGCsskDCHRRbQHBAYkuRFCXK0
+CCkJkCSCNMPKEAgClBhFoEWKUigGcyQk9OIqLVbCyGs2xVJN0qGWWkSny46Jmi8H
+i8MMIVGGiPAl+pQZoiLjnszedE6coTvs9eWivb+qMXbH1pS1DUuJoY5R767qwHBq
+UzDn9s+X+3JD0KtFWYHZ5mFvU+aAT5q/Mv59yhDZ6Zl7OdW6LmP3wMnp4NKP3/0o
+1Vl8qOB+3a3jiXxXwoiBhPLei2/vl0b+qjyWuO3Q9g8nDBvO331U/M36yWw2cw1c
+u/FGU1xrGtjktTM5RukBn/B5QB486A9e6Im8zzQ1pLsWnlsd9PhPVrZ1uysC8Rdz
+5YVvnX157/yQxeSqbb5A/+Oc9M7G07+sOtJTunHk7+ze92vMKdWhxfWRR05lv/FK
+RV38awmH3Zap6LFAXO4zBQNdrVtUsHWiO7/v+M6S9jbPxIzckvxdZcuDWd+vVXcS
+T4RPLTRdqb+6Rk3tmT6TFHZ+LNE70JN5Nv293mbqTn3GWFJt1s0dJMxo/OASbv2z
+4bJpW35RTll0UpK/pJnYfLtxXdX8U3nzjpg9/afOZR/2bRroMng7Nytn9oz8brZ8
+8XD1155nRy88bzeahrqCng53Xvzdgy3Xp33j7Qqc21BiMIzDayXk6cIVhV50lJ28
+53OkFKmXKm6uf5PZdyLl0SrjTPunru1zSV33nu5dFqyOXek/p4SP9D1eHhs7lRwd
+Wp9Rcja84I/C5MZlL0Y4llz7aqbuJ7HjE9Kw4npt3ZYbtcSkf8pcfPXhSzG3dk3v
+nB3NN5l/+8zz1o+2fwB+JbjD
+=AWI2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/njncalub
+
+==================================================================

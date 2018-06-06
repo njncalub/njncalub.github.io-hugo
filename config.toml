@@ -1,0 +1,27 @@
+baseURL = "https://njncalub.github.io/"
+canonifyurls = true
+
+copyright = "Copyright &copy; 2018 &mdash; Nap Joseph Calub"
+languageCode = "en-us"
+title = "Nap Labs"
+theme = "kiera"
+
+paginate = 3
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+disqusShortname = "njncalub-ghpages"
+googleAnalytics = "UA-107992935-1"
+
+[author]
+    name = "Nap Joseph Calub"
+    github = "njncalub"
+    gitlab = "njncalub"
+    linkedin = "njncalub"
+    facebook = ""
+    twitter = ""
+    instagram = ""
+
+[params]
+    tagline = "Where Nap tinkers with open source projects and learns about new things."
