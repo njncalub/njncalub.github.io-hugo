@@ -25,3 +25,7 @@ googleAnalytics = "UA-107992935-1"
 
 [params]
     tagline = "Learning something new everyday."
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

@@ -3,6 +3,15 @@ title = "Cleaning your Python dev environment"
 date = "2018-05-13"
 weight = "20"
 meta = "true"
+tags = [
+    "python",
+    "homebrew",
+    "environment",
+    "setup",
+]
+categories = [
+    "Tutorials",
+]
 +++
 
 Is your development environment getting too cluttered? Time for some spring cleaning!

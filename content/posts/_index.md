@@ -1,5 +1,5 @@
 +++
-title = "Posts"
+title = "Archives"
 menu = "main"
-weight = "10"
+weight = "20"
 +++
