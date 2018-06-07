@@ -1,9 +1,9 @@
 baseURL = "https://njncalub.github.io/"
 canonifyurls = true
 
-copyright = "Copyright &copy; 2018 &mdash; Nap Joseph Calub"
+title = "njncalub $"
+copyright = "Copyright &copy; 2018 &mdash; Nap Labs"
 languageCode = "en-us"
-title = "Nap Labs"
 theme = "kiera"
 
 paginate = 3
