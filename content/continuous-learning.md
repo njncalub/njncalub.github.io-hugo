@@ -17,7 +17,7 @@ From [E-learning: Concepts, Trends, Applications](https://www.talentlms.com/elea
 
 ## What's this page about?
 
-I added this online so that anyone can publicly view the progress of my progress. This is my way to pressure myself to continue learning and not slack off. [It might work for you, too](https://www.verywellmind.com/what-is-the-rule-of-commitment-2795890).
+I added this online so that anyone can publicly view my progress. This is my way to pressure myself to continue learning and not slack off. [It might work for you, too](https://www.verywellmind.com/what-is-the-rule-of-commitment-2795890).
 
 ### Courses from [Coursera](https://www.coursera.org/):
 | Title | Length | Instructor | Completed |
