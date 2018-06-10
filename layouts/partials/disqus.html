@@ -1,0 +1,25 @@
+<section class="comments-block">
+      <button id="show-comments" style="display: none;"><i class="fa fa-comments-o"></i> Add/View Comments</button>
+</section>
+
+<section id="disqus_thread"></section>
+
+<script>
+  (function() {
+    var disqus_config = function () {
+      this.page.url = 'https://njncalub.github.io{{ .Page.RelPermalink }}';
+      this.page.identifier = '{{ .Page.RelPermalink }}';
+      this.page.title = '{{ .Page.Title }}';
+    };
+
+    (function() {
+      var d = document, s = d.createElement('script');
+
+      s.src = '//{{ .Site.DisqusShortname }}.disqus.com/embed.js';
+
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+
+  })();
+</script>
