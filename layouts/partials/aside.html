@@ -7,18 +7,6 @@
             </em>
         </li>
 
-        {{ if .Params.categories }}
-        <li>
-            Categories:
-            <em>
-                {{ range $i, $c := .Params.categories }}
-                    {{ if $i }}, {{ end }}
-                    <a href="/categories/{{$c | urlize }}/">{{ $c }}</a>
-                {{ end }}
-            </em>
-        </li>
-        {{ end }}
-
         {{ if .Params.tags }}
         <li>
             Tags:
@@ -26,6 +14,18 @@
                 {{ range $i, $t := .Params.tags }}
                     {{ if $i }}, {{ end }}
                     <a href="/tags/{{$t | urlize }}/">#{{ $t }}</a>
+                {{ end }}
+            </em>
+        </li>
+        {{ end }}
+
+        {{ if .Params.categories }}
+        <li>
+            Categories:
+            <em>
+                {{ range $i, $c := .Params.categories }}
+                    {{ if $i }}, {{ end }}
+                    <a href="/categories/{{$c | urlize }}/">{{ $c }}</a>
                 {{ end }}
             </em>
         </li>

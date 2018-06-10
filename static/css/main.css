@@ -3,8 +3,8 @@ body {
   overflow: scroll;
 }
 
-#container > * {
-  /*width: 1000px;*/
+a {
+  color: #751d0f;
 }
 
 #container header h1 {
