@@ -12,7 +12,7 @@
   <div id="container">
     <header>
       <h1>
-          <a href="{{ relURL "/" }}">{{ .Site.Title | markdownify }}</a>
+          <a href="{{ relURL "/" }}" title="{{ .Site.Params.subtitle }}">{{ .Site.Title | markdownify }}</a>
       </h1>
 
       {{ partial "social_media" . }}

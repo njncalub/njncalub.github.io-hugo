@@ -1,8 +1,6 @@
 baseURL = "https://njncalub.github.io/"
 canonifyurls = true
 
-title = "fabri enim bibliothecam"
-
 copyright = "Copyright &copy; 2018 &mdash; Nap Labs"
 languageCode = "en-us"
 theme = "kiera"
@@ -15,8 +13,10 @@ pygmentsCodeFences = true
 disqusShortname = "njncalub-ghpages"
 googleAnalytics = "UA-107992935-1"
 
+title = "fabri de magia"
 [params]
-    tagline = "a grimoire on the magic of software development"
+    subtitle = "the makers of magic"
+    tagline = "a grimoire on software development & design"
 
 [author]
     name = "Nap Joseph Calub"
