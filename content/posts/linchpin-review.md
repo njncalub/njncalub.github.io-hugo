@@ -1,5 +1,5 @@
 +++
-title = "Monthly Book Reviews: Linchpin:​ Are You Indispensable?"
+title = 'Monthly Book Reviews: "Linchpin:​ Are You Indispensable?"'
 date = "2015-01-30"
 meta = "true"
 tags = [

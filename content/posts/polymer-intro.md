@@ -3,7 +3,7 @@ title = "Friday Training Sessions: Polymer"
 date = "2014-11-14"
 meta = "true"
 tags = [
-    "gdg devfest 2014",
+    "gdg devfest",
     "polymer",
 ]
 categories = [
