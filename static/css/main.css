@@ -1,7 +1,43 @@
 body {
-    overflow: scroll;
+  background-image: url("../images/grey.png");
+  overflow: scroll;
 }
 
 #container > * {
-  width: 1000px;
+  /*width: 1000px;*/
+}
+
+#container header h1 {
+  font-family: "Berkshire Swash", sans-serif;
+}
+
+#container header h1 a {
+  color: #751d0f;
+}
+
+#container nav {
+  border-bottom: solid 3px #751d0f;
+}
+
+#container nav ul li a.active {
+    border-bottom: 0.5em solid #751d0f;
+}
+
+#container footer {
+  border-top: solid 3px #751d0f;
+}
+
+.meta-aside, #container main section#home ul li aside, #container main article aside {
+  font-size: 0.6em;
+}
+
+.readmore {
+  background-color: #751d0f;
+  border: none;
+  color: white;
+  padding: 3px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.8em;
 }

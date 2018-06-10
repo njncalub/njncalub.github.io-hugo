@@ -2,13 +2,20 @@
 title = "Continuous Learning"
 date = "2018-06-06"
 weight = "20"
-meta = "false"
 commentable = "false"
 +++
 
-*Continuous Learning*. Because similar to healthy software projects, we must always strive to improve ourselves by learning new knowledge and skills.
+## Why?
 
-## [Lynda](https://lynda.com)
+Software development is an endless pursuit of knowledge. There were many significant advancements in just the past decade and the tools and languages change [every year](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f). The technologies you know today might already be obsolete tomorrow. How do we stay relevant in this age of fast-paced information? The answer is **Continuous Learning**.
+
+From [E-learning: Concepts, Trends, Applications](https://www.talentlms.com/elearning/continuous-learning):
+
+> On a personal level, continuous learning is about the constant expansion of skills and skill-sets through learning and increasing knowledge. As life changes the need to adapt both professionally and personally is as real as the changes themselves.
+
+> On a professional level, continuous learning is about further expanding our skill-set in response to a changing environment and new developments. This is very important because we are called to respond to changes daily; for example, the introduction of computers in the workplace created a need for people to train on computers to complete tasks more efficiently.
+
+## Courses from [Lynda](https://lynda.com)
 
 | Title | Released | Length | Instructor | Completed |
 |-------|:--------:|:------:|:----------:|:---------:|
@@ -44,7 +51,7 @@ commentable = "false"
 | Google Tag Manager (V2) Essential Training | 02/2015 | 2h 4m | Corey Koberg | Oct 09, 2017 |
 | Learning Google Apps Script | 09/2015 | 1h 19m | Scott Simpson | Oct 08, 2017 |
 
-## [CodeSchool](https://codeschool.com)
+## Courses from [CodeSchool](https://codeschool.com)
 
 **Note**: Code School was acquired by [PluralSight](https://pluralsight.com), and some of the original courses and course progress was lost as of June 1, 2018.
 
@@ -68,7 +75,7 @@ commentable = "false"
 | [Assembling Sass](https://www.pluralsight.com/courses/code-school-assembling-sass) | Sep 20, 2012 | 54m 19s | Nick Walsh | Aug 18, 2017 |
 | [Accelerating Through Angular](https://www.pluralsight.com/courses/code-school-accelerating-through-angular) | Oct 24, 2016 | 1h 1m | Gregg Pollack | Aug 18, 2017 |
 
-## [Talk Python Training](https://training.talkpython.fm/)
+## Courses from [Talk Python Training](https://training.talkpython.fm/)
 
 | Title | Length | Instructor | Completed |
 |-------|:------:|:----------:|:---------:|

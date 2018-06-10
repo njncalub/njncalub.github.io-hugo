@@ -237,7 +237,7 @@ require-virtualenv = true
 require-virtualenv = true
 ```
 
-## Resources
+## Further readings
 
 * https://gist.github.com/adamscharf/85a363f0bab254db00ccb3ea9ee45c72
 * https://gist.github.com/beck/a79d54f5bda49b0766a43366c603bf5d

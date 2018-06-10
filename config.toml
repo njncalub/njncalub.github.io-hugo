@@ -23,9 +23,12 @@ title = "fabri de magia"
     github = "njncalub"
     gitlab = ""
     linkedin = "njncalub"
+    keybase = "njncalub"
     facebook = ""
     twitter = ""
     instagram = ""
+    resume = "https://njncalub.github.io/resume"
+    learning = "/continuous-learning"
 
 [taxonomies]
   category = "categories"
