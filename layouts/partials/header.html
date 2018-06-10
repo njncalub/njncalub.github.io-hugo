@@ -3,7 +3,7 @@
 <html lang="{{ .Site.LanguageCode | default "en" }}">
 
 <head>
-  <title>{{ .Site.Title }}</title>
+  <title>njncalub:{{ if and (eq .Page.File.Dir "") (eq .Page.File.TranslationBaseName "_index") }}~{{ else }}~/{{ .Page.File.Dir }}{{ .Page.File.TranslationBaseName }}{{ end }} $</title>
   {{ partial "meta" . }}
   {{ partial "header_includes" . -}}
 </head>

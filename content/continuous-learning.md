@@ -1,7 +1,6 @@
 +++
-title = "CL"
+title = "Continuous Learning"
 date = "2018-06-06"
-menu = "main"
 weight = "20"
 meta = "false"
 +++

@@ -1,7 +1,8 @@
 baseURL = "https://njncalub.github.io/"
 canonifyurls = true
 
-title = "njncalub $"
+title = "fabri enim bibliothecam"
+
 copyright = "Copyright &copy; 2018 &mdash; Nap Labs"
 languageCode = "en-us"
 theme = "kiera"
@@ -14,17 +15,17 @@ pygmentsCodeFences = true
 disqusShortname = "njncalub-ghpages"
 googleAnalytics = "UA-107992935-1"
 
+[params]
+    tagline = "a beginner's guide to software development magic"
+
 [author]
     name = "Nap Joseph Calub"
     github = "njncalub"
-    gitlab = "njncalub"
+    gitlab = ""
     linkedin = "njncalub"
     facebook = ""
     twitter = ""
     instagram = ""
-
-[params]
-    tagline = "Learning something new everyday."
 
 [taxonomies]
   category = "categories"
