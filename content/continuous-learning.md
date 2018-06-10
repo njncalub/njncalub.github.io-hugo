@@ -3,6 +3,7 @@ title = "Continuous Learning"
 date = "2018-06-06"
 weight = "20"
 meta = "false"
+commentable = "false"
 +++
 
 *Continuous Learning*. Because similar to healthy software projects, we must always strive to improve ourselves by learning new knowledge and skills.
