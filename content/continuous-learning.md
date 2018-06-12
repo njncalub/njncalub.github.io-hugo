@@ -89,3 +89,14 @@ I added this online so that anyone can publicly view my progress. This is my way
 |-------|:------:|:----------:|:---------:|
 | [Write Pythonic Code Like a Seasoned Developer](https://training.talkpython.fm/courses/details/write-pythonic-code-like-a-seasoned-developer) | 4h 12m | [Michael Kennedy](https://github.com/mikeckennedy/) | 05/16/2018 |
 | [MongoDB Quickstart with Python](https://training.talkpython.fm/courses/details/mongodb-python-quickstart-mongoengine) | 2h 0m | [Michael Kennedy](https://github.com/mikeckennedy/) | 05/16/2018 |
+
+### Language tracks from [Duolingo](https://duolingo.com):
+
+| Language | Level | Date Completed |
+|----------|:-----:|:--------------:|
+| [Esperanto](https://www.duolingo.com/course/eo/en/Learn-Esperanto-Online) | Level 13 | 12/02/2017 |
+| [Korean](https://www.duolingo.com/course/ko/en/Learn-Korean-Online) | Level 7 |  |
+| [Japanese](https://www.duolingo.com/course/ja/en/Learn-Japanese-Online) | Level 7 |  |
+| [Spanish](https://www.duolingo.com/course/es/en/Learn-Spanish-Online) | Level 6 |  |
+| [French](https://www.duolingo.com/course/fr/en/Learn-French-Online) | Level 6 |  |
+| [Chinese](https://www.duolingo.com/course/zh-CN/en/Learn-Chinese-Online) | Level 4 |  |
