@@ -6,7 +6,7 @@ commentable = "false"
 
 ## Why?
 
-Software development is an endless pursuit of knowledge. There were many significant advancements in just the past decade and the tools and languages drastically change [every year](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f). The technologies you know today might already be obsolete tomorrow. How do we stay relevant in this age of fast-paced information? The answer is **Continuous Learning**.
+Software development is an endless pursuit of knowledge. There were many significant advancements in just the past decade and the tools and languages drastically change [every year](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f). The technologies you know today might already be obsolete tomorrow. How do you stay relevant in this age of fast-paced industry? The answer is **Continuous Learning**.
 
 From [E-learning: Concepts, Trends, Applications](https://www.talentlms.com/elearning/continuous-learning):
 
@@ -27,37 +27,37 @@ I added this online so that anyone can publicly view my progress. This is my way
 
 | Title | Released | Length | Instructor | Completed |
 |-------|:--------:|:------:|:----------:|:---------:|
-| Google Cloud Platform Essential Training | 03/2017 | 3h 56m | Lynn Langit | 06/04/2018 |
-| Learning Go for Web Development | 09/2016 | 2h 9m | Larry Price | 05/30/2018 |
-| Java EE: Web Services | 03/2014 | 2h 25m | Patrick Royal | 05/02/2018 |
-| NLP with Python for Machine Learning Essential Training | 03/2018 | 4h 14m | Derek Jedamski | 05/02/2018 |
-| Web Security: OAuth and OpenID Connect | 01/2018 | 1h 26m | Keith Casey | 05/02/2018 |
-| Programming Foundations: Fuzzy Logic | 04/2018 | 41m 50s | Erin Colvin | 05/01/2018 |
-| Logistics Foundations | 08/2015 | 1h 44m | Steven Brown | 04/29/2018 |
-| Scrum: Advanced | 07/2017 | 1h 3m | Kelley O'Connell | 04/29/2018 |
-| Designing RESTful APIs | 01/2018 | 1h 24m | Keith Casey | 04/29/2018 |
-| Database Clinic: MongoDB | 08/2017 | 1h 17m | Kirsten Hunter | 04/20/2018 |
-| Python: Advanced Design Patterns | 02/2018 | 1h 24m | Jungwoo Ryoo | 04/19/2018 |
-| Agile Development Practices | 08/2017 | 26m 29s | Harrison Ferrone | 04/19/2018 |
-| Learning Python with PyCharm | 07/2017 | 2h 30m | Bruce Van Horn | 04/17/2018 |
-| Shopify Essential Training | 03/2018 | 3h 39m | Patrick Rauland | 04/17/2018 |
-| Learning REST APIs | 02/2018 | 1h 8m | Morten Rand-Hendriksen | 04/14/2018 |
-| Scrum: The Basics | 03/2017 | 1h 2m | Kelley O'Connell | 04/14/2018 |
-| Django: 4 Building an Elearning Platform | 05/2017 | 2h 13m | Antonio Mele de Juan | 12/03/2017 |
-| Django: 3 Building an Online Shop | 05/2017 | 2h 45m | Antonio Mele de Juan | 12/02/2017 |
-| Django: 2 Building a Social Website | 05/2017 | 2h 21m | Antonio Mele de Juan | 11/27/2017 |
-| Django: 1 Building a Blog | 05/2017 | 1h 57m | Antonio Mele de Juan | 11/26/2017 |
-| Learning the Python 3 Standard Library | 02/2017 | 2h 9m | Kathryn Hodge | 11/14/2017 |
-| Advanced Django: Web Development | 09/2016 | 59m 54s | Kevin Veroneau | 11/12/2017 |
-| Python: Programming Efficiently | 02/2017 | 2h 15m | Michele Vallisneri | 11/08/2017 |
-| Learning Python Generators | 09/2016 | 44m 23s | Josh McQuiston | 11/05/2017 |
-| Get Ready for Your Coding Interview | 04/2017 | 1h 51m | YK Sugishita | 11/01/2017 |
-| Programming Foundations: Data Structures | 06/2014 | 2h 29m | Simon Allardice | 11/01/2017 |
-| Data Science and Analytics Career Paths and Certifications: First Steps (2016) | 08/2016 | 54m 15s | Jungwoo Ryoo | 10/27/2017 |
-| Programming Foundations: Test-Driven Development | 06/2013 | 1h 50m | Simon Allardice | 10/26/2017 |
-| Learning Functional Programming with JavaScript | 07/2017 | 59m 23s | Shaun Wassell | 10/12/2017 |
-| Google Tag Manager (V2) Essential Training | 02/2015 | 2h 4m | Corey Koberg | 10/09/2017 |
-| Learning Google Apps Script | 09/2015 | 1h 19m | Scott Simpson | 10/08/2017 |
+| [Google Cloud Platform Essential Training](https://www.lynda.com/Google-Cloud-Platform-tutorials/Google-Cloud-Platform-Essential-Training/540539-2.html) | 03/2017 | 3h 56m | [Lynn Langit](https://www.lynda.com/Lynn-Langit/3308983-1.html) | 06/04/2018 |
+| [Learning Go for Web Development](https://www.lynda.com/Go-tutorials/Go-Web-Development/516402-2.html) | 09/2016 | 2h 9m | [Larry Price](https://www.lynda.com/Larry-Price/8290848-1.html) | 05/30/2018 |
+| [Java EE: Web Services](https://www.lynda.com/Developer-Programming-Languages-tutorials/Building-Web-Services-Java-EE/149837-2.html) | 03/2014 | 2h 25m | [Patrick Royal](https://www.lynda.com/Patrick-Royal/2069120-1.html) | 05/02/2018 |
+| [NLP with Python for Machine Learning Essential Training](https://www.lynda.com/Python-tutorials/NLP-Python-Machine-Learning-Essential-Training/622075-2.html) | 03/2018 | 4h 14m | [Derek Jedamski](https://www.lynda.com/Derek-Jedamski/10302583-1.html) | 05/02/2018 |
+| [Web Security: OAuth and OpenID Connect](https://www.lynda.com/Web-Development-tutorials/Web-Security-OAuth-OpenID-Connect/642498-2.html) | 01/2018 | 1h 26m | [Keith Casey](https://www.lynda.com/Keith-Casey/2958182-1.html) | 05/02/2018 |
+| [Programming Foundations: Fuzzy Logic](https://www.lynda.com/Software-Development-tutorials/Programming-Foundations-Fuzzy-Logic/667369-2.html) | 04/2018 | 41m 50s | [Erin Colvin](https://www.lynda.com/Erin-Colvin/11771845-1.html) | 05/01/2018 |
+| [Logistics Foundations](https://www.lynda.com/Business-Skills-tutorials/Fundamentals-Logistics/371324-2.html) | 08/2015 | 1h 44m | [Steven Brown](https://www.lynda.com/Steven-Brown/4128958-1.html) | 04/29/2018 |
+| [Scrum: Advanced](https://www.lynda.com/Business-Skills-tutorials/Scrum-Advanced/550574-2.html) | 07/2017 | 1h 3m | [Kelley O'Connell](https://www.lynda.com/Kelley-O-Connell/4079058-1.html) | 04/29/2018 |
+| [Designing RESTful APIs](https://www.lynda.com/Web-Development-tutorials/Designing-RESTful-APIs/642497-2.html) | 01/2018 | 1h 24m | [Keith Casey](https://www.lynda.com/Keith-Casey/2958182-1.html) | 04/29/2018 |
+| [Database Clinic: MongoDB](https://www.lynda.com/MongoDB-tutorials/Database-Clinic-MongoDB/616718-2.html) | 08/2017 | 1h 17m | [Kirsten Hunter](https://www.lynda.com/Kirsten-Hunter/8639813-1.html) | 04/20/2018 |
+| [Python: Advanced Design Patterns](https://www.lynda.com/Python-tutorials/Python-Advanced-Design-Patterns/656802-2.html) | 02/2018 | 1h 24m | [Jungwoo Ryoo](https://www.lynda.com/Jungwoo-Ryoo/3280559-1.html) | 04/19/2018 |
+| [Agile Development Practices](https://www.lynda.com/Software-Development-tutorials/Agile-Development-Practices/624301-2.html) | 08/2017 | 26m 29s | [Harrison Ferrone](https://www.lynda.com/Harrison-Ferrone/7490428-1.html) | 04/19/2018 |
+| [Learning Python with PyCharm](https://www.lynda.com/Python-tutorials/Learning-Python-PyCharm/590828-2.html) | 07/2017 | 2h 30m | [Bruce Van Horn](https://www.lynda.com/Bruce-Van-Horn/1283555-1.html) | 04/17/2018 |
+| [Shopify Essential Training](https://www.lynda.com/Shopify-tutorials/Shopify-Essential-Training/661814-2.html) | 03/2018 | 3h 39m | [Patrick Rauland](https://www.lynda.com/Patrick-Rauland/4264651-1.html) | 04/17/2018 |
+| [Learning REST APIs](https://www.lynda.com/Web-Development-tutorials/Learning-REST-APIs/651230-2.html) | 02/2018 | 1h 8m | [Morten Rand-Hendriksen](https://www.lynda.com/Morten-Rand-Hendriksen/725535-1.html) | 04/14/2018 |
+| [Scrum: The Basics](https://www.lynda.com/Business-Skills-tutorials/Scrum-Basics/550619-2.html) | 03/2017 | 1h 2m | [Kelley O'Connell](https://www.lynda.com/Kelley-O-Connell/4079058-1.html) | 04/14/2018 |
+| [Django: 4 Building an Elearning Platform](https://www.lynda.com/Django-tutorials/Django-4-Building-Elearning-Platform/594456-2.html) | 05/2017 | 2h 13m | [Antonio Mele de Juan](https://www.lynda.com/Antonio-Mele-de-Juan/10244172-1.html) | 12/03/2017 |
+| [Django: 3 Building an Online Shop](https://www.lynda.com/Django-tutorials/Django-3-Building-Online-Shop/594455-2.html) | 05/2017 | 2h 45m | [Antonio Mele de Juan](https://www.lynda.com/Antonio-Mele-de-Juan/10244172-1.html) | 12/02/2017 |
+| [Django: 2 Building a Social Website](https://www.lynda.com/Django-tutorials/Django-2-Building-Social-Website/594454-2.html) | 05/2017 | 2h 21m | [Antonio Mele de Juan](https://www.lynda.com/Antonio-Mele-de-Juan/10244172-1.html) | 11/27/2017 |
+| [Django: 1 Building a Blog](https://www.lynda.com/Django-tutorials/Django-1-Building-Blog/594453-2.html) | 05/2017 | 1h 57m | [Antonio Mele de Juan](https://www.lynda.com/Antonio-Mele-de-Juan/10244172-1.html) | 11/26/2017 |
+| [Learning the Python 3 Standard Library](https://www.lynda.com/Python-tutorials/Learning-Python-3-Standard-Library/550133-2.html) | 02/2017 | 2h 9m | [Kathryn Hodge](https://www.lynda.com/Kathryn-Hodge/8553602-1.html) | 11/14/2017 |
+| [Advanced Django: Web Development](https://www.lynda.com/Django-tutorials/Mastering-Django-Web-Development/521202-2.html) | 09/2016 | 59m 54s | [Kevin Veroneau](https://www.lynda.com/Kevin-Veroneau/8496211-1.html) | 11/12/2017 |
+| [Python: Programming Efficiently](https://www.lynda.com/Python-tutorials/Python-Programming-Efficiently/534425-2.html) | 02/2017 | 2h 15m | [Michele Vallisneri](https://www.lynda.com/Michele-Vallisneri/4666188-1.html) | 11/08/2017 |
+| [Learning Python Generators](https://www.lynda.com/Python-tutorials/Python-Generators/483228-2.html) | 09/2016 | 44m 23s | [Josh McQuiston](https://www.lynda.com/Josh-McQuiston/5847232-1.html) | 11/05/2017 |
+| [Get Ready for Your Coding Interview](https://www.lynda.com/Software-Development-tutorials/Get-Ready-Your-Coding-Interview/576698-2.html) | 04/2017 | 1h 51m | [YK Sugishita](https://www.lynda.com/YK-Sugishita/9211148-1.html) | 11/01/2017 |
+| [Programming Foundations: Data Structures](https://www.lynda.com/Software-Development-tutorials/Programming-Foundations-Data-Structures/149042-2.html) | 06/2014 | 2h 29m | [Simon Allardice](https://www.lynda.com/Simon-Allardice/21-1.html) | 11/01/2017 |
+| Data Science and Analytics Career Paths and Certifications: First Steps (2016) | [08/2016 | 54m 15s | [Jungwoo Ryoo](https://www.lynda.com/Jungwoo-Ryoo/3280559-1.html) | 10/27/2017 |
+| [Programming Foundations: Test-Driven Development](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Test-Driven-Development/124398-2.html) | 06/2013 | 1h 50m | [Simon Allardice](https://www.lynda.com/Simon-Allardice/21-1.html) | 10/26/2017 |
+| [Learning Functional Programming with JavaScript](https://www.lynda.com/JavaScript-tutorials/Learning-Functional-Programming-JavaScript/585272-2.html) | 07/2017 | 59m 23s | [Shaun Wassell](https://www.lynda.com/Shaun-Wassell/9363054-1.html) | 10/12/2017 |
+| [Google Tag Manager (V2) Essential Training](https://www.lynda.com/Google-Tag-Manager-tutorials/Google-Tag-Manager-V2-Essential-Training/168238-2.html) | 02/2015 | 2h 4m | [Corey Koberg](https://www.lynda.com/Corey-Koberg/693854-1.html) | 10/09/2017 |
+| [Learning Google Apps Script](https://www.lynda.com/Google-Apps-tutorials/Up-Running-Google-Apps-Script/380092-2.html) | 09/2015 | 1h 19m | [Scott Simpson](https://www.lynda.com/Scott-Simpson/578025-1.html) | 10/08/2017 |
 
 ### Courses from [CodeSchool](https://codeschool.com):
 
