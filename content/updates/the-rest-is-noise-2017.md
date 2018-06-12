@@ -7,7 +7,7 @@ tags = [
     "skymarines",
 ]
 categories = [
-    "Events",
+    "Images",
 ]
 +++
 

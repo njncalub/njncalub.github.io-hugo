@@ -1,6 +1,5 @@
 +++
 title = "Continuous Learning"
-date = "2018-06-06"
 weight = "20"
 commentable = "false"
 +++

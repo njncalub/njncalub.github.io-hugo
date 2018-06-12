@@ -17,6 +17,10 @@ title = "fabri de magia"
 [params]
     subtitle = "the makers of magic"
     tagline = "a grimoire on software development & design"
+    mainSections = [
+        "posts",
+        "updates"
+    ]
 
 [author]
     name = "Nap Joseph Calub"

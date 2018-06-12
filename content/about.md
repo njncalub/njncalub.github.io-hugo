@@ -1,6 +1,5 @@
 +++
 title = "About"
-date = "2018-06-06"
 menu = "main"
 weight = "2"
 commentable = "false"
