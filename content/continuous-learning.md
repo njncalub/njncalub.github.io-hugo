@@ -27,6 +27,7 @@ I added this online so that anyone can publicly view my progress. This is my way
 
 | Title | Released | Length | Instructor | Completed |
 |-------|:--------:|:------:|:----------:|:---------:|
+| [Angular Essential Training](https://www.lynda.com/Angular-tutorials/Angular-Essential-Training/540347-2.html) | 03/2018 | 2h 48m | [Justin Schwartzenberger](https://www.lynda.com/Justin-Schwartzenberger/5951469-1.html) | 06/14/2018 |
 | [Google Cloud Platform Essential Training](https://www.lynda.com/Google-Cloud-Platform-tutorials/Google-Cloud-Platform-Essential-Training/540539-2.html) | 03/2017 | 3h 56m | [Lynn Langit](https://www.lynda.com/Lynn-Langit/3308983-1.html) | 06/04/2018 |
 | [Learning Go for Web Development](https://www.lynda.com/Go-tutorials/Go-Web-Development/516402-2.html) | 09/2016 | 2h 9m | [Larry Price](https://www.lynda.com/Larry-Price/8290848-1.html) | 05/30/2018 |
 | [Java EE: Web Services](https://www.lynda.com/Developer-Programming-Languages-tutorials/Building-Web-Services-Java-EE/149837-2.html) | 03/2014 | 2h 25m | [Patrick Royal](https://www.lynda.com/Patrick-Royal/2069120-1.html) | 05/02/2018 |
