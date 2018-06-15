@@ -37,3 +37,6 @@ title = "fabri de magia"
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[blackfriday]
+    fractions = false

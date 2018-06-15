@@ -27,7 +27,11 @@ I added this online so that anyone can publicly view my progress. This is my way
 
 | Title | Released | Length | Instructor | Completed |
 |-------|:--------:|:------:|:----------:|:---------:|
-| [Angular Essential Training](https://www.lynda.com/Angular-tutorials/Angular-Essential-Training/540347-2.html) | 03/2018 | 2h 48m | [Justin Schwartzenberger](https://www.lynda.com/Justin-Schwartzenberger/5951469-1.html) | 06/14/2018 |
+| [Angular: Routing](https://www.lynda.com/Angular-tutorials/Angular-Routing/656816-2.html) | 03/2018 | 40m 49s | [Greg Bardwell](https://www.lynda.com/Greg-Bardwell/10668237-1.html) | 06/15/2018 |
+| [Angular: Maintaining Applications](https://www.lynda.com/Angular-tutorials/Angular-Maintaining-Applications/664835-2.html) | 03/2018 | 44m 29s | [Emmanuel Henri](https://www.lynda.com/Emmanuel-Henri/6037653-1.html) | 06/15/2018 |
+| [Angular: Material Design](https://www.lynda.com/Angular-tutorials/Angular-Material-Design/622087-2.html) | 10/2017 | 50m 53s | [Robby Millsap](https://www.lynda.com/Robby-Millsap/10669608-1.html) | 06/15/2018 |
+| [Angular Template Design and Implementation](https://www.lynda.com/Angular-tutorials/Angular-Template-Design-Implementation/577373-2.html) | 06/2017 | 1h 32m | [Gary Simon](https://www.lynda.com/Gary-Simon/427927-1.html) | 06/15/2018 |
+| [Angular Essential Training](https://www.lynda.com/Angular-tutorials/Angular-Essential-Training/540347-2.htmlr) | 03/2018 | 2h 48m | [Justin Schwartzenberger](https://www.lynda.com/Justin-Schwartzenberger/5951469-1.html) | 06/14/2018 |
 | [Google Cloud Platform Essential Training](https://www.lynda.com/Google-Cloud-Platform-tutorials/Google-Cloud-Platform-Essential-Training/540539-2.html) | 03/2017 | 3h 56m | [Lynn Langit](https://www.lynda.com/Lynn-Langit/3308983-1.html) | 06/04/2018 |
 | [Learning Go for Web Development](https://www.lynda.com/Go-tutorials/Go-Web-Development/516402-2.html) | 09/2016 | 2h 9m | [Larry Price](https://www.lynda.com/Larry-Price/8290848-1.html) | 05/30/2018 |
 | [Java EE: Web Services](https://www.lynda.com/Developer-Programming-Languages-tutorials/Building-Web-Services-Java-EE/149837-2.html) | 03/2014 | 2h 25m | [Patrick Royal](https://www.lynda.com/Patrick-Royal/2069120-1.html) | 05/02/2018 |
@@ -54,7 +58,7 @@ I added this online so that anyone can publicly view my progress. This is my way
 | [Learning Python Generators](https://www.lynda.com/Python-tutorials/Python-Generators/483228-2.html) | 09/2016 | 44m 23s | [Josh McQuiston](https://www.lynda.com/Josh-McQuiston/5847232-1.html) | 11/05/2017 |
 | [Get Ready for Your Coding Interview](https://www.lynda.com/Software-Development-tutorials/Get-Ready-Your-Coding-Interview/576698-2.html) | 04/2017 | 1h 51m | [YK Sugishita](https://www.lynda.com/YK-Sugishita/9211148-1.html) | 11/01/2017 |
 | [Programming Foundations: Data Structures](https://www.lynda.com/Software-Development-tutorials/Programming-Foundations-Data-Structures/149042-2.html) | 06/2014 | 2h 29m | [Simon Allardice](https://www.lynda.com/Simon-Allardice/21-1.html) | 11/01/2017 |
-| Data Science and Analytics Career Paths and Certifications: First Steps (2016) | [08/2016 | 54m 15s | [Jungwoo Ryoo](https://www.lynda.com/Jungwoo-Ryoo/3280559-1.html) | 10/27/2017 |
+| Data Science and Analytics Career Paths and Certifications: First Steps (2016) | 08/2016 | 54m 15s | [Jungwoo Ryoo](https://www.lynda.com/Jungwoo-Ryoo/3280559-1.html) | 10/27/2017 |
 | [Programming Foundations: Test-Driven Development](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Test-Driven-Development/124398-2.html) | 06/2013 | 1h 50m | [Simon Allardice](https://www.lynda.com/Simon-Allardice/21-1.html) | 10/26/2017 |
 | [Learning Functional Programming with JavaScript](https://www.lynda.com/JavaScript-tutorials/Learning-Functional-Programming-JavaScript/585272-2.html) | 07/2017 | 59m 23s | [Shaun Wassell](https://www.lynda.com/Shaun-Wassell/9363054-1.html) | 10/12/2017 |
 | [Google Tag Manager (V2) Essential Training](https://www.lynda.com/Google-Tag-Manager-tutorials/Google-Tag-Manager-V2-Essential-Training/168238-2.html) | 02/2015 | 2h 4m | [Corey Koberg](https://www.lynda.com/Corey-Koberg/693854-1.html) | 10/09/2017 |
