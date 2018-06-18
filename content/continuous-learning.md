@@ -27,6 +27,7 @@ I added this online so that anyone can publicly view my progress. This is my way
 
 | Title | Released | Length | Instructor | Completed |
 |-------|:--------:|:------:|:----------:|:---------:|
+| [Learning Go](https://www.lynda.com/Go-tutorials/Up-Running-Go/412378-2.html) | 11/2015 | 3h 48m | [David Gassner](https://www.lynda.com/David-Gassner/87-1.html) | 06/18/2018 |
 | [Learning RxJS](https://www.lynda.com/Angular-tutorials/Learning-RxJS/630623-2.html) | 01/2018 | 57m 27s | [Bonnie Jean Brennan](https://www.lynda.com/Bonnie-Jean-Brennan/10658181-1.html) | 06/16/2018 |
 | [TypeScript Essential Training](https://www.lynda.com/Typescript-tutorials/TypeScript-Essential-Training/421807-2.html) | 05/2016 | 4h 19m | [Jess Chadwick](https://www.lynda.com/Jess-Chadwick/1116263-1.html) | 06/16/2018 |
 | [Angular: Routing](https://www.lynda.com/Angular-tutorials/Angular-Routing/656816-2.html) | 03/2018 | 40m 49s | [Greg Bardwell](https://www.lynda.com/Greg-Bardwell/10668237-1.html) | 06/15/2018 |

@@ -16,6 +16,7 @@ googleAnalytics = "UA-107992935-1"
 title = "fabri de magia"
 [params]
     subtitle = "the makers of magic"
+    description = "fabri de magia: a grimoire on software development and design."
     tagline = "a grimoire on software development & design"
     mainSections = [
         "posts",
