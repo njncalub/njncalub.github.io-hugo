@@ -27,6 +27,7 @@ I added this online so that anyone can publicly view my progress. This is my way
 
 | Title | Released | Length | Instructor | Completed |
 |-------|:--------:|:------:|:----------:|:---------:|
+| [Learning MongoDB](https://www.lynda.com/Moodle-tutorials/Learning-MongoDB/573253-2.html) | 05/2017 | 1h 35m | [Kirsten Hunter](https://www.lynda.com/Kirsten-Hunter/8639813-1.html) | 06/21/2018 |
 | [Programming Foundations: Design Patterns](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Design-Patterns/135365-2.html) | 12/2013 | 2h 19m | [Elisabeth Robson](https://www.lynda.com/Elisabeth-Robson/1077106-1.html) | 06/21/2018 |
 | [Web Development Foundations: Full-Stack vs Front-End](https://www.lynda.com/Web-Development-tutorials/Becoming-Web-Developer-Full-Stack-vs-Front-End/483022-2.html) | 06/2016 | 40m 1s | [Ray Villalobos](https://www.lynda.com/Ray-Villalobos/832401-1.html) | 06/19/2018 |
 | [Learning Go](https://www.lynda.com/Go-tutorials/Up-Running-Go/412378-2.html) | 11/2015 | 3h 48m | [David Gassner](https://www.lynda.com/David-Gassner/87-1.html) | 06/18/2018 |
